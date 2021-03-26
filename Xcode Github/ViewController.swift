@@ -11,6 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("teste de xcode github")
         // Do any additional setup after loading the view.
     }
 
